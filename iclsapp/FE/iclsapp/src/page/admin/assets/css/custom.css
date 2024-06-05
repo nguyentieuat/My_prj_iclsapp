@@ -1,0 +1,51 @@
+.form_div {
+    padding: 20px;
+  }
+  
+  .div-input {
+    padding-bottom: 30px;
+  }
+  
+  .btn-input-form {
+    margin-right: 20px;
+    width: 150px;
+  }
+  
+  .div-privew-img {
+    padding-bottom: 120px;
+  }
+  
+  #img-upload {
+    width: 90%;
+    max-width: 600px;
+    max-height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+  }
+  
+  #dataTables-example {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #swap {
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .stt{
+      text-align:center;
+  }
+  .textarea {
+      height:100%;
+  }
+  
+  table thead tr{
+      text-align:center;
+  }
+  
